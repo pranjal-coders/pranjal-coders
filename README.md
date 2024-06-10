@@ -1,23 +1,4 @@
 <h1 align="center" style="display: inline-block; white-space: nowrap; overflow: hidden; border-right: .15em solid; animation: typing 3.5s steps(30, end), blink-caret .75s step-end infinite;" >Hi 👋, I'm Pranjal Pal</h1>
-<style>
-@keyframes typing {
-    from { width: 0; }
-    to { width: 100%; }
-}
-
-@keyframes blink-caret {
-    from, to { border-color: transparent; }
-    50% { border-color: black; }
-}
-
-h1 {
-    display: inline-block;
-    white-space: nowrap;
-    overflow: hidden;
-    border-right: .15em solid black;
-    animation: typing 3.5s steps(30, end) infinite, blink-caret .75s step-end infinite;
-}
-</style>
 <h3 align="center">A passionate coder on an unending quest for knowledge, innovation and creativity. Transforming digital dreams into reality, one line of code at a time. Join me as we innovate, build, and master the tech cosmos together.</h3>
 
 - 🔭 I’m currently working **on my skills**
