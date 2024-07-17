@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **Fullstack web/web3**
 
-- 👯 I’m looking to collaborate **on open source**
-
-- 🤝 I’m looking for help **with Web dev**
-
 - 👨‍💻 All of my projects are available [https://github.com/pranjal-coders](https://github.com/pranjal-coders)
 
 - 💬 Ask me about **Python,C,C++,C#**
