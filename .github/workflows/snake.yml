@@ -10,14 +10,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate Snake Contributions
-        uses: Platane/snk@v3
+        uses: Platane/snk@v4
         with:
           github_user_name: pranjal-coders
           outputs: |
             dist/github-contribution-grid-snake.svg
 
       - name: Upload Artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: contribution-snake
           path: dist/github-contribution-grid-snake.svg
