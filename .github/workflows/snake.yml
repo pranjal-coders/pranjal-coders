@@ -25,5 +25,5 @@ jobs:
       - name: Push to GitHub
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GGH_PAT }}
           publish_dir: ./dist
