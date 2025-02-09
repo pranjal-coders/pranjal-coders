@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate Snake Contributions
-        uses: Platane/snk@v4
+        uses: Platane/snk@v3
         with:
           github_user_name: pranjal-coders
           outputs: |
