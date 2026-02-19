@@ -88,7 +88,7 @@
 <div align="center" >
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjal-coders&theme=transparent&hide_border=false" width="32.5%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjal-coders&theme=transparent&hide_border=false" width="62.5%">
 
 </a>
 </div>
