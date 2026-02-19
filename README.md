@@ -95,12 +95,6 @@
 
 #
 
-     
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pranjal-coders&margin-w=8&margin-h=4&theme=onedark)
-
-#
-
 <h2 align="center">
   <b>OPEN FOR COLLABORATIONS</b>
    
