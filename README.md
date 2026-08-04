@@ -39,7 +39,7 @@
 
  # 🤷🏼‍♂️ About Me-
 
-- 📚 I'm currently a **3rd-year student** at **Vellore Institute of Technology, Vellore**, pursuing Computer Science Engineering w/s Data Science.
+- 📚 I'm currently a **Final-year student** at **Vellore Institute of Technology, Vellore**, pursuing Computer Science Engineering w/s Data Science.
 
 - ✍️ Alongside my studies, I enjoy **writing blogs** on a variety of topics, exploring the intersection of technology and the world.<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 
